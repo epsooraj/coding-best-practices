@@ -18,5 +18,5 @@ https://dart.dev/guides/language/effective-dart/usage
 ## Django
 https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/
 
-## Python - pep8
-https://www.python.org/dev/peps/pep-0008/
+[//]: # (## Python - pep8)
+[//]: # (https://www.python.org/dev/peps/pep-0008/)
