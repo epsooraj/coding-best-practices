@@ -1,4 +1,4 @@
-# Coding best practices
+# Coding Best Practices
 
 ## Javascript
 https://github.com/airbnb/javascript
