@@ -53,3 +53,8 @@ https://en.wikipedia.org/wiki/Indentation_style
 
 ## Changelog
 https://keepachangelog.com/en/0.3.0/
+
+---
+
+### Sources
+https://github.com/Kristories/awesome-guidelines
