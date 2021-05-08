@@ -5,19 +5,24 @@ https://github.com/elsewhencode/project-guidelines
 
 ## Javascript
 https://github.com/airbnb/javascript
+
 https://google.github.io/styleguide/jsguide.html
+
 https://github.com/ryanmcdermott/clean-code-javascript
 
 ## TypeScript
 https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html
+
 https://google.github.io/styleguide/tsguide.html
 
 ## Nodejs
 https://github.com/goldbergyoni/nodebestpractices
+
 https://github.com/felixge/node-style-guide
 
 ## HTML
 https://github.com/hail2u/html-best-practices
+
 https://google.github.io/styleguide/htmlcssguide.html
 
 ## Dart
@@ -28,6 +33,7 @@ https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding
 
 ## Python
 https://www.python.org/dev/peps/pep-0008/
+
 https://google.github.io/styleguide/pyguide.html
 
 ## Markdown
